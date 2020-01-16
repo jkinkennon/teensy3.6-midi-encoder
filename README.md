@@ -1,2 +1,5 @@
 # teensy3.6-midi-encoder
- MIDI encoder/decoder using the Teensy 3.6
+ 
+ A PCB is available for this project.
+ 3 SPI ports, 8 analog inputs for potentiometers, 8 GPIO outputs.
+ 
